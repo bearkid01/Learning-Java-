@@ -52,7 +52,17 @@ public class Manager implements Info {
 	}
 }
 
-/* Main */
+
+/* Interface Info */
+
+package day1.examples;
+
+public interface Info {
+	public void getInfo();
+}
+
+
+/* Main Program */
 package day1.examples;
 
 public class TestCompany {
@@ -72,13 +82,4 @@ public class TestCompany {
 		info2.getInfo();
 	}
 }
-
-/* Interface Info */
-
-package day1.examples;
-
-public interface Info {
-	public void getInfo();
-}
-
 
