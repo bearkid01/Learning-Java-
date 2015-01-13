@@ -8,6 +8,6 @@ Basic Programming
   * I/O
   * Exception
 
-Algorithm 
+Data Structure 
   
 
