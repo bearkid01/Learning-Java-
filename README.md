@@ -10,4 +10,7 @@ Basic Programming
 
 Data Structure 
   
+  * Linked List
+  * Using LinkedList to implement a Priority Queue
+  * Using LinkedinList to implement a Stack 
 
